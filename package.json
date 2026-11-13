@@ -1,0 +1,14 @@
+{
+  "name": "jogo-barbie",
+  "version": "1.0.0",
+  "description": "Jogo de parkour com Barbie, Raquel e Ken usando Socket.IO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.14",
+    "socket.io": "^4.7.5"
+  }
+}
